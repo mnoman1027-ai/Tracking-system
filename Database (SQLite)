@@ -1,0 +1,13 @@
+CREATE TABLE riders(
+id INTEGER PRIMARY KEY,
+
+rider_id TEXT,
+
+name TEXT,
+
+status TEXT,
+
+working_hours TEXT,
+
+last_update TEXT
+);
