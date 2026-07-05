@@ -1,0 +1,16 @@
+app/
+    main.js
+    preload.js
+
+automation/
+    login.js
+    riders.js
+    orders.js
+
+database/
+    database.js
+
+ui/
+    login.html
+    dashboard.html
+    dashboard.js
